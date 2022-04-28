@@ -2,6 +2,7 @@
   "mfsm2": {
     "Overview": "/",
     "module name here": "core.html",
-    "Second Core": "secondcore.html"
+    "Second Core": "secondcore.html",
+    "Multi-Fidelity Surrogate Model Comparison - Kriging vs. Deep Neural Net (DNN) ": "multifidelitysm.html"
   }
 }
