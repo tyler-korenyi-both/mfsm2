@@ -10,10 +10,10 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: Placeholder 1
       url: core.html
     - output: web,pdf
-      title: Second Core
+      title: Placeholder 2
       url: secondcore.html
     - output: web,pdf
       title: 'Multi-Fidelity Surrogate Model Comparison - Kriging vs. Deep Neural
